@@ -192,7 +192,7 @@ Note: some of these regions do not have all four areas represented. In this case
 
 [By state](maps/pct_intact_state_gradient_map.html)
 
-[*Note: I also created gradient maps that show the percentage of adults aged 15-34, 35-64, and 15-64 who are married; however, I removed them from this site in order to stay within GitHub's file size limitations.*]
+*Note: I also created gradient maps that show the percentage of adults aged 15-34, 35-64, and 15-64 who are married; however, I removed them from this site in order to stay within GitHub's file size limitations.*
 
 ## Data tables
 
