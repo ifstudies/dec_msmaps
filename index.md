@@ -2,7 +2,7 @@
 
 Note: these analyses are limited to regions with at least 100 relevant households. For instance, maps and tables that show the percentage of householders aged 35-64 who are married show only those areas with at least 100 householders in that age range; similarly, maps that show the percentage of households with kids that are led by married couples show only those areas with at least 100 households with kids.
 
-An exception to this rule are the maps labeled  'All VA blocks' ; these show all blocks with at least 10 relevant households or householders.
+An exception to this rule are the maps labeled  'VA blocks (detailed)' ; these show all blocks with at least *10* relevant households or householders.
 
 (Note: In order to stay within the 1 GB size limit for GitHub Pages sites, certain maps and tables--including the % of households led by married couples and the % of householders aged 15-34 who were married--were removed.)
 
@@ -17,7 +17,7 @@ Note: some of these regions do not have all four areas represented. In this case
 
 [By block (VA only)](maps/pct_married_VA_block_categorical_map.html)
 
-[All VA blocks](maps/pct_married_VA_block_full_categorical_map.html)
+[VA blocks (detailed)](maps/pct_married_VA_block_full_categorical_map.html)
 
 [By block group (VA only)](maps/pct_married_block_group_categorical_map.html)
 
@@ -42,7 +42,7 @@ Note: some of these regions do not have all four areas represented. In this case
 
 [By block (VA only)](maps/pct_15_64_married_VA_block_categorical_map.html)
 
-[All VA blocks](maps/pct_15_64_married_VA_block_full_categorical_map.html)
+[VA blocks (detailed)](maps/pct_15_64_married_VA_block_full_categorical_map.html)
 
 [By block group (VA only)](maps/pct_15_64_married_block_group_categorical_map.html)
 
@@ -64,7 +64,7 @@ Note: some of these regions do not have all four areas represented. In this case
 
 [By block (VA only)](maps/pct_35_64_married_VA_block_categorical_map.html)
 
-[All VA blocks)](maps/pct_35_64_married_VA_block_full_categorical_map.html)
+[VA blocks (detailed)](maps/pct_35_64_married_VA_block_full_categorical_map.html)
 
 [By block group (VA only)](maps/pct_35_64_married_block_group_categorical_map.html)
 
@@ -86,7 +86,7 @@ Note: some of these regions do not have all four areas represented. In this case
 
 [By block (VA only)](maps/pct_married_with_kids_VA_block_categorical_map.html)
 
-[All VA blocks](maps/pct_married_with_kids_VA_block_full_categorical_map.html)
+[VA blocks (detailed)](maps/pct_married_with_kids_VA_block_full_categorical_map.html)
 
 [By block group (VA only)](maps/pct_married_with_kids_block_group_categorical_map.html)
 
@@ -129,7 +129,7 @@ Note: some of these regions do not have all four areas represented. In this case
 
 [By block (VA only)](maps/pct_15_34_married_VA_block_categorical_map.html)
 
-[All VA blocks](maps/pct_15_34_married_VA_block_full_categorical_map.html)
+[VA blocks (detailed)](maps/pct_15_34_married_VA_block_full_categorical_map.html)
 
 [By block group (VA only)](maps/pct_15_34_married_block_group_categorical_map.html)
 
@@ -158,7 +158,7 @@ Note: some of these regions do not have all four areas represented. In this case
 
 [By block (VA only)](maps/pct_married_VA_block_gradient_map.html)
 
-[All VA blocks](maps/pct_married_VA_block_full_gradient_map.html)
+[VA blocks (detailed)](maps/pct_married_VA_block_full_gradient_map.html)
 
 [By block group (VA only)](maps/pct_married_block_group_gradient_map.html)
 
@@ -182,7 +182,7 @@ Note: some of these regions do not have all four areas represented. In this case
 
 [By block (VA only)](maps/pct_married_with_kids_VA_block_gradient_map.html)
 
-[All VA blocks](maps/pct_married_with_kids_VA_block_full_gradient_map.html)
+[VA blocks (detailed)](maps/pct_married_with_kids_VA_block_full_gradient_map.html)
 
 [By block group (VA only)](maps/pct_married_with_kids_block_group_gradient_map.html)
 
