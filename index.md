@@ -222,7 +222,6 @@ Note: some of these regions do not have all four areas represented. In this case
 
 ## Data tables
 
-
 ### % of householders aged 35-64 who are married
 
 [By block (VA only)](tables/pct_35_64_married_VA_block_table.html)
@@ -351,6 +350,8 @@ Note: some of these regions do not have all four areas represented. In this case
 [By state](tables/pct_15_34_married_state_table.html)
 
 -->
+
+#### [Nationwide data table](tables/census_us_marriage_share_estimates.html)
 
 
 ### Author:
