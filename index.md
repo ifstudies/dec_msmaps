@@ -353,6 +353,16 @@ Note: some of these regions do not have all four areas represented. In this case
 
 #### [Nationwide data table](tables/census_us_marriage_share_estimates.html)
 
+## Analyses of the top 10 grouped deserts and oases (in terms of the % of adults aged 15-64 who are married) by householders aged 15-64
+
+To create these analyses, I first grouped desert and oasis tracts together, then determined which of these grouped tracts had the highest numbers of householders aged 15-64. (Note: the population values shown within these maps and tables represent the number of householders aged 15-64, rather than the total number of adults, or unmarried individuals, within that age range.)
+
+[Map of the top 10 grouped deserts and oases](maps/pct_15_64_married_tract_top_10_deserts_and_oases.html)
+
+[Table showing the top 100 grouped deserts](tables/100_largest_marriage_deserts_by_population.html)
+
+[Table showing the top 100 grouped oases](tables/100_largest_marriage_oases_by_population.html)
+
 
 ### Author:
 [Institute for Family Studies](https://ifstudies.org)
