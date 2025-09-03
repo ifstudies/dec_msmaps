@@ -48,6 +48,10 @@ Note: some of these regions do not have all four areas represented. In this case
 
 [By Census tract](maps/pct_15_64_married_tract_categorical_map.html)
 
+[By Census tract (NYC region only)](maps/cropped_Married_map_for_NYC.html)
+
+[By Census tract (LA region only)](maps/cropped_Married_map_for_Los_Angeles.html)
+
 [By zip](maps/pct_15_64_married_zip_categorical_map.html)
 
 [By county](maps/pct_15_64_married_county_categorical_map.html)
@@ -111,6 +115,10 @@ Note: some of these regions do not have all four areas represented. In this case
 [By block group (VA only)](maps/pct_intact_block_group_categorical_map.html)
 
 [By Census tract](maps/pct_intact_tract_categorical_map.html)
+
+[By Census tract (NYC region only)](maps/cropped_Intact_map_for_NYC.html)
+
+[By Census tract (LA region only)](maps/cropped_Intact_map_for_Los_Angeles.html)
 
 [By zip](maps/pct_intact_zip_categorical_map.html)
 
