@@ -1,4 +1,4 @@
-# Visualizations of Marriage and Family Formation Data Within 2020 Decennial Census
+# Visualizations of Marriage and Family Formation Data Within the 2020 Decennial Census
 
 Note: these analyses are limited to regions with at least 100 relevant households. For instance, maps and tables that show the percentage of householders aged 35-64 who are married show only those areas with at least 100 householders in that age range; similarly, maps that show the percentage of households with kids that are led by married couples show only those areas with at least 100 households with kids.
 
@@ -355,8 +355,9 @@ Note: some of these regions do not have all four areas represented. In this case
 
 #### [Sample IFS-branded table](tables/state_ifs_branded_table.html)
 
+## Maps and tables that show grouped deserts and oases
 
-## Analyses of the top 10 grouped deserts and oases (in terms of the % of adults aged 15-64 who are married) by householders aged 15-64
+### Analyses of the top 10 grouped deserts and oases (in terms of the % of adults aged 15-64 who are married) by householders aged 15-64
 
 To create these analyses, I first grouped desert and oasis tracts together, then determined which of these grouped tracts had the highest numbers of householders aged 15-64. (Note: the population values shown within these maps and tables represent the number of householders aged 15-64, rather than the total number of adults, or unmarried individuals, within that age range.)
 
@@ -365,6 +366,17 @@ To create these analyses, I first grouped desert and oasis tracts together, then
 [Table showing the top 100 grouped deserts](tables/100_largest_marriage_deserts_by_population.html)
 
 [Table showing the top 100 grouped oases](tables/100_largest_marriage_oases_by_population.html)
+
+### Similar maps and tables for our intact-family analyses
+
+These analyses show the intact-family deserts and oases with the largest numbers of households with children. 
+
+[Map of the top 10 grouped deserts and oases](maps/pct_intact_tract_top_10_deserts_and_oases.html)
+
+[Table showing the top 100 grouped deserts](tables/100_largest_intact_deserts_by_population.html)
+
+[Table showing the top 100 grouped oases](tables/100_largest_intact_oases_by_population.html)
+
 
 
 ### Author:
