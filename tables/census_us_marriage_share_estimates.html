@@ -1,13 +1,15 @@
-<table id="itables_b49e0251_9527_4ed1_984a_756ff865554b" class="display nowrap" data-quarto-disable-processing="true" style="table-layout:auto;width:auto;margin:auto;caption-side:bottom">
+<table id="itables_5b2b3bb2_f723_4de0_91a9_1799bd31a6c8" class="display nowrap" data-quarto-disable-processing="true" style="table-layout:auto;width:auto;margin:auto;caption-side:bottom">
 <thead>
     <tr style="text-align: right;">
       
       <th>Year</th>
-      <th>NAME</th>
       <th>us</th>
+      <th>NAME</th>
+      <th>Total population</th>
       <th>Total households</th>
       <th>Married-couple households as % of all households</th>
       <th>Households with children</th>
+      <th>Households with children as % of all households</th>
       <th>Married-couple households with children as % of all households</th>
       <th>% of households with kids headed by married couple</th>
       <th>Total householders aged 15-34</th>
@@ -16,18 +18,6 @@
       <th>% of householders aged 35-64 who are married</th>
       <th>Total householders aged 15-64</th>
       <th>% of householders aged 15-64 who are married</th>
-      <th>Married-couple households as % of all households (Category)</th>
-      <th>Married-couple households as % of all households stepped_color</th>
-      <th>Married-couple households with children as % of all households (Category)</th>
-      <th>Married-couple households with children as % of all households stepped_color</th>
-      <th>% of households with kids headed by married couple (Category)</th>
-      <th>% of households with kids headed by married couple stepped_color</th>
-      <th>% of householders aged 15-34 who are married (Category)</th>
-      <th>% of householders aged 15-34 who are married stepped_color</th>
-      <th>% of householders aged 35-64 who are married (Category)</th>
-      <th>% of householders aged 35-64 who are married stepped_color</th>
-      <th>% of householders aged 15-64 who are married (Category)</th>
-      <th>% of householders aged 15-64 who are married stepped_color</th>
     </tr>
   </thead><tbody><tr>
 <td style="vertical-align:middle; text-align:left">
@@ -129,12 +119,12 @@ Loading ITables v2.2.4 from the internet...
 <script type="module">
     import {DataTable, jQuery as $} from 'https://www.unpkg.com/dt_for_itables@2.0.13/dt_bundle.js';
 
-    document.querySelectorAll("#itables_b49e0251_9527_4ed1_984a_756ff865554b:not(.dataTable)").forEach(table => {
+    document.querySelectorAll("#itables_5b2b3bb2_f723_4de0_91a9_1799bd31a6c8:not(.dataTable)").forEach(table => {
         if (!(table instanceof HTMLTableElement))
             return;
 
         // Define the table data
-        const data = [[2020, "United States", 1, 126817580, 46.274534, 33788853, 17.571946, 65.951682, 23713697, 33.84188, 68696709, 52.186066, 92410406, 47.478713, "Lower share", 0.4, "Higher share", 0.6, "Lower share", 0.4, "Lower share", 0.4, "Higher share", 0.6, "Lower share", 0.4]];
+        const data = [[2020, 1, "United States", 331449281, 126817580, 46.274534, 33788853, 26.643666, 17.571946, 65.951682, 23713697, 33.84188, 68696709, 52.186066, 92410406, 47.478713]];
 
         // Define the dt_args
         let dt_args = {"ascending": false, "index": false, "layout": {"topStart": null, "topEnd": null, "bottomStart": null, "bottomEnd": null}, "order": [], "warn_on_selected_rows_not_rendered": true};
